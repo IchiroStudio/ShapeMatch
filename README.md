@@ -3,4 +3,4 @@ Shape Match is a fun educational game for kids to learn and practice 2D shapes, 
 Shapes: Square, Circle, Polygon, Triangle.
 
 # Contact Us
-if 
+if you have any question when using our product, you can send email to me: ichirostudio@163.com.
